@@ -22,7 +22,17 @@
 </ul>
 
 # <h2>🤝Colaboradores</h2>
-
+  <table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/NorteGaming61">
+        <sub>
+          <b>GaldiLuna</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 # <h2>🎯Status do Projeto</h2>
 <ul>
   <li>Em Construção</li>
