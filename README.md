@@ -1,11 +1,11 @@
 #  Loja Multijet
 
 # <h2>📝Descrição</h2>
-<p>Projeto criado para a disciplina de Códigos de Alta Performance Web. Site de uma loja de informática.</p>
+<p>Projeto criado para a disciplina de Códigos de Alta Performance Web. Site de serviços de informática.</p>
 
 # <h2>📚Funcionalidades</h2>
 <ul>
-  <li>Este site tem o intuito de auxiliar a loja Multijet na venda de produtos de informática, solicitações de serviços, orçamentos, aluguel de impressoras, etc.</li>
+  <li>Este site tem o intuito de auxiliar a loja Multijet na solicitações de serviços, orçamentos, aluguel de impressoras, Recargas de toners e cartuchos, etc.</li>
 </ul>
 
 # <h2>🔧Tecnologias Utilizadas</h2>
